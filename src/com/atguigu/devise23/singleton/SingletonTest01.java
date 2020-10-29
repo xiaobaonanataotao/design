@@ -1,4 +1,4 @@
-package com.atguigu.devise23;
+package com.atguigu.devise23.singleton;
 
 public class SingletonTest01 {
     public static void main(String[] args) {
